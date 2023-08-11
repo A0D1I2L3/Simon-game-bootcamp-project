@@ -9,6 +9,15 @@ body {
   margin:  5%;
   color: #FEF2BF;
 }
+.instruction{
+  position: fixed;
+  right: 50px;
+  top: 50px;
+}
+.instruction a{
+  color: yellow;
+  cursor: pointer;
+}
 
 .container {
   display: block;
